@@ -1327,3 +1327,11 @@ as a CACM Research Highlight (September 2011).**
 ![CACM Cover August
 2012](/sites/default/files/aug-2012.jpg)**Published
 as a CACM Research Highlight (August 2012).**
+
+***Title:*** [Cache Efficient Functional Algorithms](http://dl.acm.org/citation.cfm?id=2797100.2776825)  
+***Authors:*** Guy E. Blelloch, Robert Harper  
+***Venue:*** POPL 2013.
+
+![CACM Cover July
+2015](/sites/default/files/jul-2015.jpg)**Published
+as a CACM Research Highlight (July 2015).**
